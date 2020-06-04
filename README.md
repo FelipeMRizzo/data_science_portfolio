@@ -5,7 +5,7 @@
 # Felipe Machado Rizzo
 <sub>*Estudante de Engenharia de Produção* no Centro Universitário FEI</sub>
 
-Em 2017 ingressei no Centro Universitário FEI, uma Instituição de Ensino de excelência com histórico de diferenciação principalmente no setor Industrial e Automobilístico. Durante a faculdade acabei me aproximando do Mercado Financeiro e desenvolvi uma grande afinidade com a Indústria de *Investment Banking* com foco na área *M&A*. 
+Em 2017 ingressei no Centro Universitário FEI, uma Instituição de Ensino de excelência com histórico de diferenciação principalmente no setor Industrial e Automobilístico. Durante a faculdade acabei me aproximando do Mercado Financeiro; entrei para a Liga de Mercado Financeiro da FEI (FEI Finance) e desenvolvi uma grande afinidade com a Indústria de *Investment Banking* com foco na área *M&A*.
 
 Para compensar a falta de matérias focadas em finanças em minha Universidade, procurei conhecimento em plataformas mundialmente renomadas como Breaking Into Wall Street, Wall Street Prep e Corporate Finance Institute. Para alavancar meus conhecimentos em programação, resolvi investir no aprendizado de Python e Data Science. Acredito que além de extremamente demandado, é uma habilidade que me permitirá elevar o grau de profundidade de minhas análises setoriais e financeiras.
 
