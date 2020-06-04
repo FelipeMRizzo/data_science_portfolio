@@ -16,7 +16,7 @@ Creio que todo o conhecimento presente na grade curricular da FEI e dos cursos q
 
 **Links:**
 
-* [LinkedIn](linkedin.com/in/felipe-machado-rizzo-1ba931176/)
+* [LinkedIn](http://www.linkedin.com/in/felipe-machado-rizzo-1ba931176/)
 
 
 
