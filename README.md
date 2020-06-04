@@ -15,7 +15,8 @@ Creio que todo o conhecimento presente na grade curricular da FEI e dos cursos q
 **Experiência em:** Contabilidade; Análise de Demonstrativos Financeiros; Modelagem Financeira; Excel e VBA; Power Point; Otimização de Processos. 
 
 **Links:**
-* [LinkedIn](linkedin.com/in/felipe-machado-rizzo-1ba931176)
+
+* [LinkedIn](linkedin.com/in/felipe-machado-rizzo-1ba931176/)
 
 
 
