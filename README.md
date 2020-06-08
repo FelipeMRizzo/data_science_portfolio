@@ -22,5 +22,6 @@ Creio que todo o conhecimento presente na grade curricular da FEI e dos cursos q
 
 ## Projetos:
 
+* **Análise de Dados do Airbnb | New York:** https://bit.ly/3f4cnpA
 ---
 
